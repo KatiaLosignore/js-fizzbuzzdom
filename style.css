@@ -1,0 +1,36 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    background-color: blue;
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+
+h1 {
+    text-align: center;
+    padding: 60px 0;
+    font-size: 60px;
+    color: white;
+}
+
+
+
+.col {
+ border: 2px solid black; 
+ margin: 10px;
+ font-size: 15px;
+ font-weight: bold;
+ width: 90px;
+ height: 90px;
+ line-height: 90px;
+}
+
