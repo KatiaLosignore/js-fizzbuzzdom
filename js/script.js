@@ -41,7 +41,7 @@ for (let i = 1; i <= 100; i++) {
     }
 
     div.append(finalResult);
-    numberElement.append(div);
+    numberElement.appendChild(div);
 
 
 }
